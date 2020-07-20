@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "566G6M9CPD.com.iainsmith.linkdemo.plaid",
+                "paths": [ "/ios/auth" ]
+            }
+        ]
+    }
+}
